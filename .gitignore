@@ -1,0 +1,4 @@
+# Output directories
+build/**
+.Xil/**
+
